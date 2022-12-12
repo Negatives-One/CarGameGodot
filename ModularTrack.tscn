@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://NiceTrack.tres" type="MeshLibrary" id=1]
+
+[node name="Spatial" type="Spatial"]
+
+[node name="GridMap" type="GridMap" parent="."]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0 )
+mesh_library = ExtResource( 1 )
+cell_size = Vector3( 1, 1, 1 )
+data = {
+"cells": PoolIntArray( 2, 0, 4, 3, 0, 1441796, 0, 1, 6, 7, 1, 1048580, 0, 2, 6, 0, 3, 6, 8, 3, 1441794, 0, 4, 6, 8, 4, 6, 0, 5, 6, 8, 5, 19, 0, 6, 6, 8, 6, 18, 0, 7, 6, 8, 7, 17, 0, 8, 6, 8, 8, 17, 0, 9, 6, 9, 9, 1048591, 0, 10, 6, 1, 11, 1048579, 10, 11, 1441795, 10, 12, 655363, 2, 13, 1441795, 4, 13, 2, 5, 13, 1048582, 6, 13, 1048582, 7, 13, 1048582, 8, 13, 1048582, 9, 13, 1048582, 3, 14, 1048578, 4, 14, 655362 )
+}
+__meta__ = {
+"_editor_clip_": 0,
+"_editor_floor_": Vector3( 0, 0, 0 )
+}
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 10, 31 )

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Track_Ramp_Support.obj-b4caa04d1e619fa71c3f6213a518e617.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Track_Ramp_Support.obj-b4caa04d1e619fa71c3f6213a518e617.mesh" ]
+
+source_file="res://assets/Track/Prop_Track_Ramp_Support.obj"
+dest_files=[ "res://.import/Prop_Track_Ramp_Support.obj-b4caa04d1e619fa71c3f6213a518e617.mesh", "res://.import/Prop_Track_Ramp_Support.obj-b4caa04d1e619fa71c3f6213a518e617.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

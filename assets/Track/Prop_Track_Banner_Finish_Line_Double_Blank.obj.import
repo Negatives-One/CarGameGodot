@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Track_Banner_Finish_Line_Double_Blank.obj-7cefd711e6fd348de10042635b658843.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Track_Banner_Finish_Line_Double_Blank.obj-7cefd711e6fd348de10042635b658843.mesh" ]
+
+source_file="res://assets/Track/Prop_Track_Banner_Finish_Line_Double_Blank.obj"
+dest_files=[ "res://.import/Prop_Track_Banner_Finish_Line_Double_Blank.obj-7cefd711e6fd348de10042635b658843.mesh", "res://.import/Prop_Track_Banner_Finish_Line_Double_Blank.obj-7cefd711e6fd348de10042635b658843.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/default.obj-7aaa3ae0dc39ce20f32417771a6cafea.mesh"
+
+[deps]
+
+files=[ "res://.import/default.obj-7aaa3ae0dc39ce20f32417771a6cafea.mesh" ]
+
+source_file="res://assets/tracks/Racetrack/default.obj"
+dest_files=[ "res://.import/default.obj-7aaa3ae0dc39ce20f32417771a6cafea.mesh", "res://.import/default.obj-7aaa3ae0dc39ce20f32417771a6cafea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

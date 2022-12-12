@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Rock_7.obj-6c0edf718a1ae3d6e9482d8e7f383103.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Rock_7.obj-6c0edf718a1ae3d6e9482d8e7f383103.mesh" ]
+
+source_file="res://assets/Track/Prop_Decorative_Rock_7.obj"
+dest_files=[ "res://.import/Prop_Decorative_Rock_7.obj-6c0edf718a1ae3d6e9482d8e7f383103.mesh", "res://.import/Prop_Decorative_Rock_7.obj-6c0edf718a1ae3d6e9482d8e7f383103.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

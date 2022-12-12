@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Incline_Flat_Sharp_Floating.obj-628a242d2181a306f1851b803bf8b7c6.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Incline_Flat_Sharp_Floating.obj-628a242d2181a306f1851b803bf8b7c6.mesh" ]
+
+source_file="res://assets/Track/Track_Bridge_Incline_Flat_Sharp_Floating.obj"
+dest_files=[ "res://.import/Track_Bridge_Incline_Flat_Sharp_Floating.obj-628a242d2181a306f1851b803bf8b7c6.mesh", "res://.import/Track_Bridge_Incline_Flat_Sharp_Floating.obj-628a242d2181a306f1851b803bf8b7c6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

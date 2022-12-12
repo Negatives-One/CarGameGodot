@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Incline_Gentle_Flat_Collider.obj-0b9b10b6f669d94e0644bf8199d34587.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Incline_Gentle_Flat_Collider.obj-0b9b10b6f669d94e0644bf8199d34587.mesh" ]
+
+source_file="res://assets/Track/Track_Bridge_Incline_Gentle_Flat_Collider.obj"
+dest_files=[ "res://.import/Track_Bridge_Incline_Gentle_Flat_Collider.obj-0b9b10b6f669d94e0644bf8199d34587.mesh", "res://.import/Track_Bridge_Incline_Gentle_Flat_Collider.obj-0b9b10b6f669d94e0644bf8199d34587.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

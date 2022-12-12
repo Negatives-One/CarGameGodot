@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/runoff_curve2.obj-fab902976e60fa2d7c0ba9f502427d95.mesh"
+
+[deps]
+
+files=[ "res://.import/runoff_curve2.obj-fab902976e60fa2d7c0ba9f502427d95.mesh" ]
+
+source_file="res://assets/tracks/Racetrack/runoff_curve2.obj"
+dest_files=[ "res://.import/runoff_curve2.obj-fab902976e60fa2d7c0ba9f502427d95.mesh", "res://.import/runoff_curve2.obj-fab902976e60fa2d7c0ba9f502427d95.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

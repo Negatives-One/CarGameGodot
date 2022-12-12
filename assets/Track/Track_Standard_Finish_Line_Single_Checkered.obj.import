@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Standard_Finish_Line_Single_Checkered.obj-74a31685080fb88958a5b6fe4f83d95f.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Standard_Finish_Line_Single_Checkered.obj-74a31685080fb88958a5b6fe4f83d95f.mesh" ]
+
+source_file="res://assets/Track/Track_Standard_Finish_Line_Single_Checkered.obj"
+dest_files=[ "res://.import/Track_Standard_Finish_Line_Single_Checkered.obj-74a31685080fb88958a5b6fe4f83d95f.mesh", "res://.import/Track_Standard_Finish_Line_Single_Checkered.obj-74a31685080fb88958a5b6fe4f83d95f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

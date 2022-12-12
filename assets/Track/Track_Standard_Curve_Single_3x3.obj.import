@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Standard_Curve_Single_3x3.obj-88d8f8e5fb1c0f16ef09c68a1826c8ef.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Standard_Curve_Single_3x3.obj-88d8f8e5fb1c0f16ef09c68a1826c8ef.mesh" ]
+
+source_file="res://assets/Track/Track_Standard_Curve_Single_3x3.obj"
+dest_files=[ "res://.import/Track_Standard_Curve_Single_3x3.obj-88d8f8e5fb1c0f16ef09c68a1826c8ef.mesh", "res://.import/Track_Standard_Curve_Single_3x3.obj-88d8f8e5fb1c0f16ef09c68a1826c8ef.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

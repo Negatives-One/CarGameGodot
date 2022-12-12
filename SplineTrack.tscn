@@ -1,0 +1,37 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="Curve3D" id=1]
+_data = {
+"points": PoolVector3Array( 0, 0, 0, 0, 0, 0, 1.85956, 0, -4.70686, 0, 0, 0, 0, 0, 0, 20.1664, 0, -5.19093, -0.396063, 0, -8.40532, 0.396063, 0, 8.40532, 31.0801, 0, 2.0262, 0, 0, 0, 0, 0, 0, 21.1346, 0, 10.5195, 0, 0, 0, 0, 0, 0, 1.77154, 0, 11.0036, -0.0440063, 0, 8.05326, 0.0440063, 0, -8.05326, -6.63378, 0, 2.77432, 0, 0, 0, 0, 0, 0, 1.85956, 0, -4.70686 ),
+"tilts": PoolRealArray( 0, 0, 0, 0, 0, 0, 0 )
+}
+
+[sub_resource type="SpatialMaterial" id=2]
+albedo_color = Color( 1, 0.470588, 0.027451, 1 )
+metallic_specular = 1.0
+
+[node name="Spatial" type="Spatial"]
+
+[node name="SplineTrack" type="Spatial" parent="."]
+
+[node name="Path" type="Path" parent="SplineTrack"]
+transform = Transform( 5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0 )
+curve = SubResource( 1 )
+
+[node name="CSGPolygon" type="CSGPolygon" parent="SplineTrack/Path" groups=["Normal"]]
+use_collision = true
+polygon = PoolVector2Array( -1.75, 0, -1.64, 1.5, -1.75, 0, 1.75, 0, 1.824, 0.875, 1.934, 0 )
+mode = 2
+path_node = NodePath("..")
+path_interval_type = 0
+path_interval = 0.1
+path_simplify_angle = 0.1
+path_rotation = 1
+path_local = true
+path_continuous_u = true
+path_u_distance = 1.0
+path_joined = true
+material = SubResource( 2 )
+
+[node name="PathFollow" type="PathFollow" parent="SplineTrack/Path"]
+transform = Transform( 0.175472, 0.0294186, -0.0913451, -0.0314141, 0.19749, 0.00325777, 0.0906784, 0.0114895, 0.177892, 1.85956, 0, -4.70686 )

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Standard_Incline_Single.obj-4751f7bd940b6fc9bd6b7692f43df52a.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Standard_Incline_Single.obj-4751f7bd940b6fc9bd6b7692f43df52a.mesh" ]
+
+source_file="res://assets/Track/Track_Standard_Incline_Single.obj"
+dest_files=[ "res://.import/Track_Standard_Incline_Single.obj-4751f7bd940b6fc9bd6b7692f43df52a.mesh", "res://.import/Track_Standard_Incline_Single.obj-4751f7bd940b6fc9bd6b7692f43df52a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

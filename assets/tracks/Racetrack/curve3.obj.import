@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/curve3.obj-59f76ed67f4bb581510f449669b9684d.mesh"
+
+[deps]
+
+files=[ "res://.import/curve3.obj-59f76ed67f4bb581510f449669b9684d.mesh" ]
+
+source_file="res://assets/tracks/Racetrack/curve3.obj"
+dest_files=[ "res://.import/curve3.obj-59f76ed67f4bb581510f449669b9684d.mesh", "res://.import/curve3.obj-59f76ed67f4bb581510f449669b9684d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

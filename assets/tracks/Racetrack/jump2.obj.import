@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/jump2.obj-7856fee5d339246a198cf2f575da12fd.mesh"
+
+[deps]
+
+files=[ "res://.import/jump2.obj-7856fee5d339246a198cf2f575da12fd.mesh" ]
+
+source_file="res://assets/tracks/Racetrack/jump2.obj"
+dest_files=[ "res://.import/jump2.obj-7856fee5d339246a198cf2f575da12fd.mesh", "res://.import/jump2.obj-7856fee5d339246a198cf2f575da12fd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

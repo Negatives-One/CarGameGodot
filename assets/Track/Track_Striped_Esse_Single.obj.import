@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Striped_Esse_Single.obj-dc6561fcac7379fbdd7a8c098d6b00df.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Striped_Esse_Single.obj-dc6561fcac7379fbdd7a8c098d6b00df.mesh" ]
+
+source_file="res://assets/Track/Track_Striped_Esse_Single.obj"
+dest_files=[ "res://.import/Track_Striped_Esse_Single.obj-dc6561fcac7379fbdd7a8c098d6b00df.mesh", "res://.import/Track_Striped_Esse_Single.obj-dc6561fcac7379fbdd7a8c098d6b00df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

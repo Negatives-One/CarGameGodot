@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Terrain_Grass_Flat_1x1.obj-90c509e0afe144318a8e66d3648e8600.mesh"
+
+[deps]
+
+files=[ "res://.import/Terrain_Grass_Flat_1x1.obj-90c509e0afe144318a8e66d3648e8600.mesh" ]
+
+source_file="res://assets/Track/Terrain_Grass_Flat_1x1.obj"
+dest_files=[ "res://.import/Terrain_Grass_Flat_1x1.obj-90c509e0afe144318a8e66d3648e8600.mesh", "res://.import/Terrain_Grass_Flat_1x1.obj-90c509e0afe144318a8e66d3648e8600.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
